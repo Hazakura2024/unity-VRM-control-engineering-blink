@@ -4,7 +4,7 @@ VRMモデルの「まばたき」を、単なるアニメーション再生で�
 制御工学の物理シミュレーションとして、Unityプロジェクトで作成しました。
 また、パラメータの数値を変更すると「眠そうな目」「驚いた目」にもできます。
 
-![blinkcontrol](docs\blinkcontrol.gif)
+![blinkcontrol](docs/blinkcontrol.gif)
 
 <br>
 また、vrmモデルが移動とジャンプでマップ内を動き回れる3dアクションゲーム機能も作成しています。
@@ -39,7 +39,7 @@ VRMモデルの「まばたき」を、単なるアニメーション再生で�
 ## ⚙️ パラメータ設定
 
 Inspectorから以下の数値を調整すると、まばたきの種類を変えられます。
-![parameter](docs\parameter.png )
+![parameter](docs/parameter.png )
 
 | パラメータ | 変数名 | 推奨値 | 説明 |
 | :--- | :--- | :--- | :--- |
