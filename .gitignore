@@ -98,5 +98,8 @@ InitTestScene*.unity*
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
 
-# 地形はサイズが大きいので無視
+# 再配布防止のassetsなど
 /Assets/Proxy Games/Stylized Nature Kit Lite
+/Assets/Models/RadDollV3_VRM.vrm
+/Assets/AllSkyFree/Epic_BlueSunset
+/Assets/StarterAssets/ThirdPersonController
